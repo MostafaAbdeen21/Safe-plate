@@ -65,9 +65,3 @@ The app respects dietary restrictions, sensory sensitivities, and cultural prefe
 - [ ] Add AI-based adaptive suggestions  
 - [ ] Partnerships with schools, NGOs, and healthcare providers  
 
----
-
-## 📩 Contact
-For collaboration, partnership, or testing opportunities:  
-**Email:** yourname@email.com  
-**GitHub Repo:** [github.com/yourusername/SAFE-PLATE](https://github.com/)  
