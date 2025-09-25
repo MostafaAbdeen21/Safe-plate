@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="A_logo_for_Safe_Plate.png" alt="SAFE PLATE Logo" width="200"/>
+  <img src="LOGO.png" alt="SAFE PLATE Logo" width="200"/>
 </p>
 
 # SAFE PLATE 🍽️  
