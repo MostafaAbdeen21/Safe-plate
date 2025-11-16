@@ -63,5 +63,11 @@ The app respects dietary restrictions, sensory sensitivities, and cultural prefe
 - [ ] Build MVP with core features  
 - [ ] Pilot testing with families in Egypt  
 - [ ] Add AI-based adaptive suggestions  
-- [ ] Partnerships with schools, NGOs, and healthcare providers  
+- [ ] Partnerships with schools, NGOs, and healthcare providers
+
+---
+
+## 🎨 Figma Link 
+https://www.figma.com/design/RDkN6racnEnY7tthVVdfuc/Safe-Plate-Design?node-id=0-1&t=wluznmW7tkaN9Mqj-1
+
 
