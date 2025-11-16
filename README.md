@@ -68,6 +68,6 @@ The app respects dietary restrictions, sensory sensitivities, and cultural prefe
 ---
 
 ## 🎨 Figma Link 
-https://www.figma.com/design/RDkN6racnEnY7tthVVdfuc/Safe-Plate-Design?node-id=0-1&t=wluznmW7tkaN9Mqj-1
+https://www.figma.com/design/RDkN6racnEnY7tthVVdfuc/Safe-Plate-Design?node-id=470-10186&t=YQNa1Dk0brRmpn0c-1
 
 
