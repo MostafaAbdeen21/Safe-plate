@@ -15,7 +15,6 @@ The app respects dietary restrictions, sensory sensitivities, and cultural prefe
 
 ## 👥 Team Members
 - Bassmalla Hossam Ibrahim Saad Eldin  
-- Rawan Mohy el din Abd el sabour Ahmed  
 - Omar Ali Oweda Ahmed  
 - Mostafa Ashraf Mostafa Elsayed  
 - Shehab Ahmed Ali Ahmed Mohamed  
